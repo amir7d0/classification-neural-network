@@ -1,0 +1,3 @@
+# Run "pip install -r requirements.txt" in shell 
+numpy == 1.21.1
+matplotlib == 3.4.3
