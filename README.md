@@ -28,8 +28,7 @@ Load data from `pickle file` or keras.
 
 Final result (optimizer: RMSprop)  
 
-![title](result.png)
-
+![title](final-result.png)
 
 **Notation**
 
