@@ -12,9 +12,10 @@ The input layer has 784 neurons. The output layer has 10 neurons, which represen
 Load MNIST dataset from `./data/mnist.pkl` or keras.  
 
 - Initializers:
-	* Random
-	* Xavier
-	* He
+	* Random Normal, Random Uniform
+	* Glorot Normal(Xavier), Glorot Uniform
+	* He Normal, He Uniform
+	* Lecun Normal, Lecun Uniform
 	
 - Optimizers:
 	+ GD with momentum
